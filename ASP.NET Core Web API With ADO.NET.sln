@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASP.NET Core Web API With ADO.NET", "ASP.NET Core Web API With ADO.NET\ASP.NET Core Web API With ADO.NET.csproj", "{7ECC0828-E224-4172-8627-CF886AC6E80B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ECC0828-E224-4172-8627-CF886AC6E80B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ECC0828-E224-4172-8627-CF886AC6E80B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ECC0828-E224-4172-8627-CF886AC6E80B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ECC0828-E224-4172-8627-CF886AC6E80B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8814A61-6BD5-4DA4-B4C0-2CD69EEE29FA}
+	EndGlobalSection
+EndGlobal
